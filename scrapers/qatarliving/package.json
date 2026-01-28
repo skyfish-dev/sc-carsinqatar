@@ -1,0 +1,16 @@
+{
+  "name": "qatarliving",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "googleapis": "^164.1.0",
+    "puppeteer": "^24.26.1"
+  }
+}

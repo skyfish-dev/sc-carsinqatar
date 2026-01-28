@@ -1,0 +1,21 @@
+{
+  "name": "car-scraper",
+  "version": "1.0.0",
+  "description": "QMotor car scraper for GitHub Actions",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["scraper", "qmotor", "cars", "github-actions"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.0",
+    "googleapis": "^164.1.0",
+    "puppeteer": "^24.26.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

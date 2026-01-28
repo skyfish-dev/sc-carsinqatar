@@ -1,0 +1,1 @@
+{"tasks": ["Analyze scraper error in Google Sheets saving", "Fix the 'Unable to parse range: Sheet1!A:Z' error", "Test the fix by running the scraper", "Verify data is saved to Google Sheets"], "progress": 0}
